@@ -1,5 +1,6 @@
 package api;
 
+import data.UserData;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
